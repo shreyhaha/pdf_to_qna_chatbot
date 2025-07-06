@@ -1,0 +1,11 @@
+langchain
+openai
+faiss-cpu
+streamlit
+PyPDF2
+pytesseract
+pdf2image
+pillow
+python-dotenv
+
+
