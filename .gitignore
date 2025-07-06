@@ -5,3 +5,5 @@ __pycache__/
 *.pkl
 *.ipynb_checkpoints/
 *.zip
+.env
+.env
